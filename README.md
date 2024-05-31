@@ -1,1 +1,1 @@
-# DSA-ass1-2
+This repository consists of java codes for todo list and linked list operations
